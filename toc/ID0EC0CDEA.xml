@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="e9bc8d42-a2e2-98da-527d-eb58838cff77.htm">Extensions</a>
+    </li>
+    <li>
+      <a href="6fe64a94-beae-6af5-2799-4b8c2cbdd273.htm">Methods</a>
+    </li>
+    <li>
+      <a href="1b12a10a-3909-d156-239e-b988f3fc3e26.htm">Take<wbr />Owner<wbr />If<wbr />Necessary</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="2e1e9a85-b20f-8ce0-4b68-39d77d08664f" href="2e1e9a85-b20f-8ce0-4b68-39d77d08664f.htm">Take<wbr />Owner<wbr />If<wbr />Necessary(<wbr />Game<wbr />Object, Player)</a>
+    </li>
+    <li>
+      <a id="eab72d7b-f66f-89bd-8ea7-6336cd887ec7" href="eab72d7b-f66f-89bd-8ea7-6336cd887ec7.htm">Take<wbr />Owner<wbr />If<wbr />Necessary(<wbr />Transform, Player)</a>
+    </li>
+  </tocItems>
+</toc>

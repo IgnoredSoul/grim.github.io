@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="e9bc8d42-a2e2-98da-527d-eb58838cff77.htm">Extensions</a>
+    </li>
+    <li>
+      <a href="6fe64a94-beae-6af5-2799-4b8c2cbdd273.htm">Methods</a>
+    </li>
+    <li>
+      <a href="79916523-edc1-0535-4348-7fdf0b8d03bf.htm">Is<wbr />Friend</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="c051f85d-ccd6-00b7-07c9-f09452e8a82e" href="c051f85d-ccd6-00b7-07c9-f09452e8a82e.htm">Is<wbr />Friend</a>
+    </li>
+    <li>
+      <a id="7dab7d1f-c3ba-9a04-b43d-4b19dcbb9a35" href="7dab7d1f-c3ba-9a04-b43d-4b19dcbb9a35.htm">Is<wbr />Friend(<wbr />APIUser)</a>
+    </li>
+    <li>
+      <a id="22914fc3-6e62-7e41-e9b7-f6fc789a70d7" href="22914fc3-6e62-7e41-e9b7-f6fc789a70d7.htm">Is<wbr />Friend(<wbr />T:<wbr />Interface<wbr />Public<wbr />Abstract<wbr />St<wbr />Co<wbr />St<wbr />Bo<wbr />Ob<wbr />St<wbr />1Bo<wbr />Si<wbr />1Unique)</a>
+    </li>
+    <li>
+      <a id="d21e95d4-b99e-b772-a4d9-44c1153faaf2" href="d21e95d4-b99e-b772-a4d9-44c1153faaf2.htm">Is<wbr />Friend(<wbr />Nullable&lt;Int<wbr />32&gt;)</a>
+    </li>
+    <li>
+      <a id="ed6d4d1e-9316-96b9-bb6b-02b12ed2ea84" href="ed6d4d1e-9316-96b9-bb6b-02b12ed2ea84.htm">Is<wbr />Friend(<wbr />Player)</a>
+    </li>
+    <li>
+      <a id="47c7c8cd-776d-2b3b-a1db-aeace31f9415" href="47c7c8cd-776d-2b3b-a1db-aeace31f9415.htm">Is<wbr />Friend(<wbr />T:<wbr />Player<wbr />Net)</a>
+    </li>
+    <li>
+      <a id="09527915-eabe-843a-95b5-321ee6eef07a" href="09527915-eabe-843a-95b5-321ee6eef07a.htm">Is<wbr />Friend(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="854572c5-098d-7143-ce6d-3143b0e7a9b1" href="854572c5-098d-7143-ce6d-3143b0e7a9b1.htm">Is<wbr />Friend(<wbr />T:<wbr />VRCPlayer)</a>
+    </li>
+    <li>
+      <a id="cd6b99c2-2f23-2297-b2aa-3733be74af65" href="cd6b99c2-2f23-2297-b2aa-3733be74af65.htm">Is<wbr />Friend(<wbr />VRCPlayer<wbr />Api)</a>
+    </li>
+  </tocItems>
+</toc>

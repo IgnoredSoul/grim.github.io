@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="89bcdbec-175d-dd3b-0f94-8968f6cc131d.htm">Icon<wbr />Hell</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ea2573a0-d265-268e-87b1-9158566a5261" href="ea2573a0-d265-268e-87b1-9158566a5261.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="42df58e6-7964-496d-8a3e-461451c83e07" href="42df58e6-7964-496d-8a3e-461451c83e07.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="c82a431d-e18f-f226-7cdc-1e24f7f7e654" class="has-submenu" href="c82a431d-e18f-f226-7cdc-1e24f7f7e654.htm">
+        <span data-tocFile="../toc/IDCGEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fields</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="e9bc8d42-a2e2-98da-527d-eb58838cff77.htm">Extensions</a>
+    </li>
+    <li>
+      <a href="6fe64a94-beae-6af5-2799-4b8c2cbdd273.htm">Methods</a>
+    </li>
+    <li>
+      <a href="90d5e005-4ac0-cdf4-bb27-493494f161a9.htm">Is<wbr />PC</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="d1d37790-a029-4ea8-0b58-aee401bb1fec" href="d1d37790-a029-4ea8-0b58-aee401bb1fec.htm">Is<wbr />PC</a>
+    </li>
+    <li>
+      <a id="eeb3fd66-be01-785d-3307-d5d5865a3c56" href="eeb3fd66-be01-785d-3307-d5d5865a3c56.htm">Is<wbr />PC(<wbr />APIUser)</a>
+    </li>
+    <li>
+      <a id="4223336d-655d-686a-1594-259875a4f74e" href="4223336d-655d-686a-1594-259875a4f74e.htm">Is<wbr />PC(<wbr />T:<wbr />Interface<wbr />Public<wbr />Abstract<wbr />St<wbr />Co<wbr />St<wbr />Bo<wbr />Ob<wbr />St<wbr />1Bo<wbr />Si<wbr />1Unique)</a>
+    </li>
+    <li>
+      <a id="5355e5dc-deb2-40c0-579e-8fbe6a1773f6" href="5355e5dc-deb2-40c0-579e-8fbe6a1773f6.htm">Is<wbr />PC(<wbr />Nullable&lt;Int<wbr />32&gt;)</a>
+    </li>
+    <li>
+      <a id="7d34f1b9-8ccc-1e62-e99a-9e1231320001" href="7d34f1b9-8ccc-1e62-e99a-9e1231320001.htm">Is<wbr />PC(<wbr />Player)</a>
+    </li>
+    <li>
+      <a id="363fc3aa-a63e-7bcb-42e6-caed3c6adb53" href="363fc3aa-a63e-7bcb-42e6-caed3c6adb53.htm">Is<wbr />PC(<wbr />T:<wbr />Player<wbr />Net)</a>
+    </li>
+    <li>
+      <a id="88bf0e5f-ca6c-f768-06b4-e19c3aca1294" href="88bf0e5f-ca6c-f768-06b4-e19c3aca1294.htm">Is<wbr />PC(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="7513bb33-8e39-1897-4848-9723a151b7f2" href="7513bb33-8e39-1897-4848-9723a151b7f2.htm">Is<wbr />PC(<wbr />T:<wbr />VRCPlayer)</a>
+    </li>
+    <li>
+      <a id="e381e307-35e9-28ad-f730-8829cc732ab5" href="e381e307-35e9-28ad-f730-8829cc732ab5.htm">Is<wbr />PC(<wbr />VRCPlayer<wbr />Api)</a>
+    </li>
+  </tocItems>
+</toc>

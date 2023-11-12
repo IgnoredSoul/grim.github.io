@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="5fa89766-fe8b-47e4-4336-d7f0f7e23141.htm">QMSlider</a>
+    </li>
+    <li>
+      <a href="dfbd78f5-b5aa-2bd5-a5b1-37f1981c59f2.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="8672125d-7661-c3a0-75a2-4c16163d3c36" href="8672125d-7661-c3a0-75a2-4c16163d3c36.htm">Initialize</a>
+    </li>
+    <li>
+      <a id="4274b1f1-a610-3fd6-e99d-7bb5a1fe5278" href="4274b1f1-a610-3fd6-e99d-7bb5a1fe5278.htm">Return<wbr />Object</a>
+    </li>
+    <li>
+      <a id="d6dc536c-7b69-a9d2-de39-07bc168f7cc8" href="d6dc536c-7b69-a9d2-de39-07bc168f7cc8.htm">Set<wbr />Label<wbr />Position</a>
+    </li>
+    <li>
+      <a id="8b490ae9-a467-2357-6381-56ab10fa8cc9" href="8b490ae9-a467-2357-6381-56ab10fa8cc9.htm">Set<wbr />Label<wbr />Text</a>
+    </li>
+    <li>
+      <a id="370bea39-caa6-a6d9-d0cf-88102c3f1067" href="370bea39-caa6-a6d9-d0cf-88102c3f1067.htm">Set<wbr />Listener</a>
+    </li>
+    <li>
+      <a id="5952a897-c517-92b3-5118-7c3c5f81e78b" href="5952a897-c517-92b3-5118-7c3c5f81e78b.htm">Set<wbr />Value</a>
+    </li>
+  </tocItems>
+</toc>

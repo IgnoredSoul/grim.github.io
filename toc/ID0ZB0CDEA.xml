@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="e9bc8d42-a2e2-98da-527d-eb58838cff77.htm">Extensions</a>
+    </li>
+    <li>
+      <a href="6fe64a94-beae-6af5-2799-4b8c2cbdd273.htm">Methods</a>
+    </li>
+    <li>
+      <a href="b86fc825-51ca-6438-02d3-5984216cfbfe.htm">Is<wbr />Quest</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="fa77b21a-9d29-59b9-6a1c-e9b35d7c5f69" href="fa77b21a-9d29-59b9-6a1c-e9b35d7c5f69.htm">Is<wbr />Quest</a>
+    </li>
+    <li>
+      <a id="96ec1ba1-792a-946d-5db3-4bd0eb2d2b71" href="96ec1ba1-792a-946d-5db3-4bd0eb2d2b71.htm">Is<wbr />Quest(<wbr />APIUser)</a>
+    </li>
+    <li>
+      <a id="ef2f713a-1b67-20f7-a7a8-6ab620ebdbac" href="ef2f713a-1b67-20f7-a7a8-6ab620ebdbac.htm">Is<wbr />Quest(<wbr />T:<wbr />Interface<wbr />Public<wbr />Abstract<wbr />St<wbr />Co<wbr />St<wbr />Bo<wbr />Ob<wbr />St<wbr />1Bo<wbr />Si<wbr />1Unique)</a>
+    </li>
+    <li>
+      <a id="a5fc45dd-4809-b154-9209-b7b463842064" href="a5fc45dd-4809-b154-9209-b7b463842064.htm">Is<wbr />Quest(<wbr />Nullable&lt;Int<wbr />32&gt;)</a>
+    </li>
+    <li>
+      <a id="872b20c4-73be-8d49-3b07-e1f012efe447" href="872b20c4-73be-8d49-3b07-e1f012efe447.htm">Is<wbr />Quest(<wbr />Player)</a>
+    </li>
+    <li>
+      <a id="40e75ab1-f336-b2bf-2d66-775ce51632ac" href="40e75ab1-f336-b2bf-2d66-775ce51632ac.htm">Is<wbr />Quest(<wbr />T:<wbr />Player<wbr />Net)</a>
+    </li>
+    <li>
+      <a id="1e435e70-c8a0-a3de-7c12-0df42f0ecc55" href="1e435e70-c8a0-a3de-7c12-0df42f0ecc55.htm">Is<wbr />Quest(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="a9c43649-63d2-4f04-3d66-5291a6aa1f3c" href="a9c43649-63d2-4f04-3d66-5291a6aa1f3c.htm">Is<wbr />Quest(<wbr />T:<wbr />VRCPlayer)</a>
+    </li>
+    <li>
+      <a id="663dc1e1-3139-7eaa-6ab1-cf176dfeaab5" href="663dc1e1-3139-7eaa-6ab1-cf176dfeaab5.htm">Is<wbr />Quest(<wbr />VRCPlayer<wbr />Api)</a>
+    </li>
+  </tocItems>
+</toc>

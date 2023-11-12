@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="e9bc8d42-a2e2-98da-527d-eb58838cff77.htm">Extensions</a>
+    </li>
+    <li>
+      <a href="6fe64a94-beae-6af5-2799-4b8c2cbdd273.htm">Methods</a>
+    </li>
+    <li>
+      <a href="3aae6897-ee51-4001-ff88-a9961bb9c5fc.htm">Set<wbr />Object<wbr />Owner</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a27b470b-c2ea-fb28-1ec1-74cf9dd105ee" href="a27b470b-c2ea-fb28-1ec1-74cf9dd105ee.htm">Set<wbr />Object<wbr />Owner(<wbr />Player, Game<wbr />Object)</a>
+    </li>
+    <li>
+      <a id="fdf4ad59-a7ee-8ed7-35e0-c1f3c544d3f3" href="fdf4ad59-a7ee-8ed7-35e0-c1f3c544d3f3.htm">Set<wbr />Object<wbr />Owner(<wbr />Player, Transform)</a>
+    </li>
+  </tocItems>
+</toc>

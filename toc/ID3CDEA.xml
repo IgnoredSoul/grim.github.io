@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="e9bc8d42-a2e2-98da-527d-eb58838cff77.htm">Extensions</a>
+    </li>
+    <li>
+      <a href="6fe64a94-beae-6af5-2799-4b8c2cbdd273.htm">Methods</a>
+    </li>
+    <li>
+      <a href="ad027957-e6cd-ed5c-4355-1de86533a0ca.htm">Get<wbr />Platform</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a22c44f0-cd9f-f446-73cd-ee306732f34e" href="a22c44f0-cd9f-f446-73cd-ee306732f34e.htm">Get<wbr />Platform</a>
+    </li>
+    <li>
+      <a id="6ba62c4f-a3a9-0770-9c40-3e8bc34ee183" href="6ba62c4f-a3a9-0770-9c40-3e8bc34ee183.htm">Get<wbr />Platform(<wbr />APIUser)</a>
+    </li>
+    <li>
+      <a id="58e2e9d7-4659-382f-89fc-c51599a31173" href="58e2e9d7-4659-382f-89fc-c51599a31173.htm">Get<wbr />Platform(<wbr />Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="132ae182-d2c0-1bd8-03e9-1bdb063b5548" href="132ae182-d2c0-1bd8-03e9-1bdb063b5548.htm">Get<wbr />Platform(<wbr />T:<wbr />Interface<wbr />Public<wbr />Abstract<wbr />St<wbr />Co<wbr />St<wbr />Bo<wbr />Ob<wbr />St<wbr />1Bo<wbr />Si<wbr />1Unique)</a>
+    </li>
+    <li>
+      <a id="ec878c1d-9823-1a87-644d-448774b4592c" href="ec878c1d-9823-1a87-644d-448774b4592c.htm">Get<wbr />Platform(<wbr />Player)</a>
+    </li>
+    <li>
+      <a id="1ffac5c3-3a1b-45f7-a46e-534c0c9b73b1" href="1ffac5c3-3a1b-45f7-a46e-534c0c9b73b1.htm">Get<wbr />Platform(<wbr />T:<wbr />Player<wbr />Net)</a>
+    </li>
+    <li>
+      <a id="ffb24677-429f-2ffe-7a2e-303b2d838351" href="ffb24677-429f-2ffe-7a2e-303b2d838351.htm">Get<wbr />Platform(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="86b6fee2-b748-bb24-a23c-1841e2648993" href="86b6fee2-b748-bb24-a23c-1841e2648993.htm">Get<wbr />Platform(<wbr />T:<wbr />VRCPlayer)</a>
+    </li>
+    <li>
+      <a id="fdec48c9-183f-837f-50a0-b76ed9fc4bbc" href="fdec48c9-183f-837f-50a0-b76ed9fc4bbc.htm">Get<wbr />Platform(<wbr />VRCPlayer<wbr />Api)</a>
+    </li>
+  </tocItems>
+</toc>

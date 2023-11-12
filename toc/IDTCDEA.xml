@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="e9bc8d42-a2e2-98da-527d-eb58838cff77.htm">Extensions</a>
+    </li>
+    <li>
+      <a href="6fe64a94-beae-6af5-2799-4b8c2cbdd273.htm">Methods</a>
+    </li>
+    <li>
+      <a href="fb96bab1-823c-5df5-3baf-c361f98372e0.htm">Get<wbr />Avatar</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a8bcfdc0-517e-8681-5100-ff3ac47913a3" href="a8bcfdc0-517e-8681-5100-ff3ac47913a3.htm">Get<wbr />Avatar</a>
+    </li>
+    <li>
+      <a id="7b423a2e-565a-2938-9fea-9f53e99c2817" href="7b423a2e-565a-2938-9fea-9f53e99c2817.htm">Get<wbr />Avatar(<wbr />APIUser)</a>
+    </li>
+    <li>
+      <a id="b04b0f5b-6ce9-21f7-a269-4bd14fbfa59d" href="b04b0f5b-6ce9-21f7-a269-4bd14fbfa59d.htm">Get<wbr />Avatar(<wbr />T:<wbr />Interface<wbr />Public<wbr />Abstract<wbr />St<wbr />Co<wbr />St<wbr />Bo<wbr />Ob<wbr />St<wbr />1Bo<wbr />Si<wbr />1Unique)</a>
+    </li>
+    <li>
+      <a id="d9a34517-f0f9-80ce-7567-aa697d9994a9" href="d9a34517-f0f9-80ce-7567-aa697d9994a9.htm">Get<wbr />Avatar(<wbr />Nullable&lt;Int<wbr />32&gt;)</a>
+    </li>
+    <li>
+      <a id="022eae93-277d-a4ef-77a9-035e6710ba82" href="022eae93-277d-a4ef-77a9-035e6710ba82.htm">Get<wbr />Avatar(<wbr />Player)</a>
+    </li>
+    <li>
+      <a id="13a44b93-6b6f-bff0-f7f9-911267975aca" href="13a44b93-6b6f-bff0-f7f9-911267975aca.htm">Get<wbr />Avatar(<wbr />T:<wbr />Player<wbr />Net)</a>
+    </li>
+    <li>
+      <a id="0f52e45d-ef40-e031-d03b-6c761b9f92f3" href="0f52e45d-ef40-e031-d03b-6c761b9f92f3.htm">Get<wbr />Avatar(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="b255f4f5-dd62-5539-117f-9e20013c5f35" href="b255f4f5-dd62-5539-117f-9e20013c5f35.htm">Get<wbr />Avatar(<wbr />T:<wbr />VRCPlayer)</a>
+    </li>
+    <li>
+      <a id="a4111895-8045-1a35-156e-05605d774cb6" href="a4111895-8045-1a35-156e-05605d774cb6.htm">Get<wbr />Avatar(<wbr />VRCPlayer<wbr />Api)</a>
+    </li>
+  </tocItems>
+</toc>

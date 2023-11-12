@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="d5ed8e88-3d7b-8ea0-8119-cff01b3565f4.htm">VPatching</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="e2745000-3372-1399-cc66-33c17bad59b0" href="e2745000-3372-1399-cc66-33c17bad59b0.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="225c48f5-4ae7-f0f9-d179-bede09eff531" href="225c48f5-4ae7-f0f9-d179-bede09eff531.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="9c55b0e6-cccc-878f-c620-b3db5bf0061d" class="has-submenu" href="9c55b0e6-cccc-878f-c620-b3db5bf0061d.htm">
+        <span data-tocFile="../toc/IDCREA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="baa98c6f-67a6-e710-ab24-5824a8dc2ac8" class="has-submenu" href="baa98c6f-67a6-e710-ab24-5824a8dc2ac8.htm">
+        <span data-tocFile="../toc/IDDREA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fields</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

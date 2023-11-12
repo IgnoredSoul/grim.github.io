@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="e9bc8d42-a2e2-98da-527d-eb58838cff77.htm">Extensions</a>
+    </li>
+    <li>
+      <a href="6fe64a94-beae-6af5-2799-4b8c2cbdd273.htm">Methods</a>
+    </li>
+    <li>
+      <a href="152458d8-589e-e4ac-f008-edb31a6f73dd.htm">Get<wbr />FPS</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="81054233-0e52-e2aa-53f4-7adbc9befbc2" href="81054233-0e52-e2aa-53f4-7adbc9befbc2.htm">Get<wbr />FPS</a>
+    </li>
+    <li>
+      <a id="d97292cb-e06c-6e3d-153d-c6a442a00c2d" href="d97292cb-e06c-6e3d-153d-c6a442a00c2d.htm">Get<wbr />FPS(<wbr />APIUser)</a>
+    </li>
+    <li>
+      <a id="1c0dd49f-8263-d0b3-71f6-8d1eb2f0915a" href="1c0dd49f-8263-d0b3-71f6-8d1eb2f0915a.htm">Get<wbr />FPS(<wbr />T:<wbr />Interface<wbr />Public<wbr />Abstract<wbr />St<wbr />Co<wbr />St<wbr />Bo<wbr />Ob<wbr />St<wbr />1Bo<wbr />Si<wbr />1Unique)</a>
+    </li>
+    <li>
+      <a id="6bcf3f8b-6a82-8ed4-b71a-55780984be34" href="6bcf3f8b-6a82-8ed4-b71a-55780984be34.htm">Get<wbr />FPS(<wbr />Nullable&lt;Int<wbr />32&gt;)</a>
+    </li>
+    <li>
+      <a id="88263a0c-a728-87e0-fb75-99dbea294ce5" href="88263a0c-a728-87e0-fb75-99dbea294ce5.htm">Get<wbr />FPS(<wbr />Player)</a>
+    </li>
+    <li>
+      <a id="06331f77-d8b3-2f31-b0f6-a1684beb0799" href="06331f77-d8b3-2f31-b0f6-a1684beb0799.htm">Get<wbr />FPS(<wbr />T:<wbr />Player<wbr />Net)</a>
+    </li>
+    <li>
+      <a id="6702ffb4-4328-011b-835d-16e3e9358087" href="6702ffb4-4328-011b-835d-16e3e9358087.htm">Get<wbr />FPS(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="a020d37f-cf40-de1d-91c9-1bcf3c6ed96c" href="a020d37f-cf40-de1d-91c9-1bcf3c6ed96c.htm">Get<wbr />FPS(<wbr />T:<wbr />VRCPlayer)</a>
+    </li>
+    <li>
+      <a id="51069f15-cf60-d8f6-d5ee-babf40bf713c" href="51069f15-cf60-d8f6-d5ee-babf40bf713c.htm">Get<wbr />FPS(<wbr />VRCPlayer<wbr />Api)</a>
+    </li>
+  </tocItems>
+</toc>

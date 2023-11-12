@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="75fe82e3-c5ce-7556-8a40-a21a21c109f0.htm">QMButton<wbr />Base</a>
+    </li>
+    <li>
+      <a href="1bdbfe95-adbd-f3a4-41ab-8c29d08e308c.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="5fb36149-b75c-92b1-1e34-fe51226a9ed6" href="5fb36149-b75c-92b1-1e34-fe51226a9ed6.htm">Click<wbr />Me</a>
+    </li>
+    <li>
+      <a id="7c2143b0-0d8a-4411-3434-3076765b91a0" href="7c2143b0-0d8a-4411-3434-3076765b91a0.htm">Get<wbr />Btn<wbr />Bg</a>
+    </li>
+    <li>
+      <a id="f2570a3e-21a1-07e7-bc18-9bb42942025e" href="f2570a3e-21a1-07e7-bc18-9bb42942025e.htm">Get<wbr />Btn<wbr />Ico</a>
+    </li>
+    <li>
+      <a id="921a6926-92fb-db3c-2bb1-a3eb9bd4b877" href="921a6926-92fb-db3c-2bb1-a3eb9bd4b877.htm">Get<wbr />Btn<wbr />Name</a>
+    </li>
+    <li>
+      <a id="a96efe67-6320-2131-aecb-a15dcded82c7" href="a96efe67-6320-2131-aecb-a15dcded82c7.htm">Get<wbr />Btn<wbr />Object</a>
+    </li>
+    <li>
+      <a id="efd2ef1d-8a64-90fd-4a81-486775fd1b2a" href="efd2ef1d-8a64-90fd-4a81-486775fd1b2a.htm">Get<wbr />Current<wbr />State</a>
+    </li>
+    <li>
+      <a id="9e340e67-1580-3bb6-cf47-de62cf337ccf" href="9e340e67-1580-3bb6-cf47-de62cf337ccf.htm">Handle<wbr />Click</a>
+    </li>
+    <li>
+      <a id="d624cbbe-4c47-e17c-8cb0-c5b354e78269" href="d624cbbe-4c47-e17c-8cb0-c5b354e78269.htm">Refresh<wbr />Button</a>
+    </li>
+    <li>
+      <a id="23688e33-daa3-a172-ba6e-21e388cc541a" href="23688e33-daa3-a172-ba6e-21e388cc541a.htm">Set<wbr />Action</a>
+    </li>
+    <li>
+      <a id="c8ab7c4f-8ac0-73a5-f9cc-38a51845660c" href="c8ab7c4f-8ac0-73a5-f9cc-38a51845660c.htm">Set<wbr />Active</a>
+    </li>
+    <li>
+      <a id="48dd4069-cf89-25cf-5f27-a9f7612483e4" href="48dd4069-cf89-25cf-5f27-a9f7612483e4.htm">Set<wbr />Background<wbr />Image</a>
+    </li>
+    <li>
+      <a id="fd1e6c67-f108-721f-c86d-e6879d95c975" href="fd1e6c67-f108-721f-c86d-e6879d95c975.htm">Set<wbr />Button<wbr />Actions</a>
+    </li>
+    <li>
+      <a id="799bcbd7-e5dd-ee00-c01c-02d61f250de0" href="799bcbd7-e5dd-ee00-c01c-02d61f250de0.htm">Set<wbr />Icon<wbr />Image</a>
+    </li>
+    <li>
+      <a id="09fc749f-cc1a-9b48-871b-53b6101423c8" href="09fc749f-cc1a-9b48-871b-53b6101423c8.htm">Set<wbr />Interactable</a>
+    </li>
+    <li>
+      <a id="8f9c040b-1c10-a77c-1273-610663446c4b" href="8f9c040b-1c10-a77c-1273-610663446c4b.htm">Set<wbr />Location</a>
+    </li>
+    <li>
+      <a id="7d6042ab-b5b0-4fa2-48db-0d1558795f9f" href="7d6042ab-b5b0-4fa2-48db-0d1558795f9f.htm">Set<wbr />Title</a>
+    </li>
+    <li>
+      <a id="9700c8ac-47e0-2d33-a432-cf8b6477c4c4" href="9700c8ac-47e0-2d33-a432-cf8b6477c4c4.htm">Set<wbr />Toggle<wbr />State</a>
+    </li>
+  </tocItems>
+</toc>

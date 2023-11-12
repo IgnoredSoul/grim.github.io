@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="e9bc8d42-a2e2-98da-527d-eb58838cff77.htm">Extensions</a>
+    </li>
+    <li>
+      <a href="6fe64a94-beae-6af5-2799-4b8c2cbdd273.htm">Methods</a>
+    </li>
+    <li>
+      <a href="6defcbc0-8f56-ec22-9bf4-3c424ecd1dbb.htm">Get<wbr />Display<wbr />Name</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="dfb77f53-17a7-6ea2-7551-cc30c0fffe2d" href="dfb77f53-17a7-6ea2-7551-cc30c0fffe2d.htm">Get<wbr />Display<wbr />Name</a>
+    </li>
+    <li>
+      <a id="bf660668-6e83-54c5-5f6a-a94a9138d278" href="bf660668-6e83-54c5-5f6a-a94a9138d278.htm">Get<wbr />Display<wbr />Name(<wbr />APIUser)</a>
+    </li>
+    <li>
+      <a id="9e6001c3-c19e-5fa9-23e3-5e08bdfbaaee" href="9e6001c3-c19e-5fa9-23e3-5e08bdfbaaee.htm">Get<wbr />Display<wbr />Name(<wbr />Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="5192b984-e7bd-81b1-8db9-09617c75f220" href="5192b984-e7bd-81b1-8db9-09617c75f220.htm">Get<wbr />Display<wbr />Name(<wbr />T:<wbr />Interface<wbr />Public<wbr />Abstract<wbr />St<wbr />Co<wbr />St<wbr />Bo<wbr />Ob<wbr />St<wbr />1Bo<wbr />Si<wbr />1Unique)</a>
+    </li>
+    <li>
+      <a id="4c536c72-25c5-c27c-2f61-3d1c914e500c" href="4c536c72-25c5-c27c-2f61-3d1c914e500c.htm">Get<wbr />Display<wbr />Name(<wbr />Player)</a>
+    </li>
+    <li>
+      <a id="880f4e31-94fb-ca9b-cb7b-ce534d665aa1" href="880f4e31-94fb-ca9b-cb7b-ce534d665aa1.htm">Get<wbr />Display<wbr />Name(<wbr />T:<wbr />Player<wbr />Net)</a>
+    </li>
+    <li>
+      <a id="6bbb660d-697c-ba9c-036a-6c7460900431" href="6bbb660d-697c-ba9c-036a-6c7460900431.htm">Get<wbr />Display<wbr />Name(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="67ac2563-d7fc-1c8b-88c9-5262faf9ffae" href="67ac2563-d7fc-1c8b-88c9-5262faf9ffae.htm">Get<wbr />Display<wbr />Name(<wbr />T:<wbr />VRCPlayer)</a>
+    </li>
+    <li>
+      <a id="0d4a8311-08fa-bbd6-19d8-e0f5f2add480" href="0d4a8311-08fa-bbd6-19d8-e0f5f2add480.htm">Get<wbr />Display<wbr />Name(<wbr />VRCPlayer<wbr />Api)</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="56631f1f-eb1b-6975-db0c-b600edda1b5d.htm">QMTab<wbr />Menu</a>
+    </li>
+    <li>
+      <a href="794e2990-23e0-17a7-3c68-cacfb0c816e0.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="bc2b0c65-78c1-996c-1196-463a9ac8ae3f" href="bc2b0c65-78c1-996c-1196-463a9ac8ae3f.htm">Get<wbr />Main<wbr />Button</a>
+    </li>
+    <li>
+      <a id="d109ff93-693f-0c46-2da5-b9a989152fba" href="d109ff93-693f-0c46-2da5-b9a989152fba.htm">Get<wbr />Menu<wbr />Name</a>
+    </li>
+    <li>
+      <a id="a5604197-9d89-68cd-ace9-13fafd762e33" href="a5604197-9d89-68cd-ace9-13fafd762e33.htm">Get<wbr />Menu<wbr />Object</a>
+    </li>
+    <li>
+      <a id="b342c4db-bce4-8398-5370-bdd045f8b53e" href="b342c4db-bce4-8398-5370-bdd045f8b53e.htm">Initialize</a>
+    </li>
+    <li>
+      <a id="e5de3f46-a6e7-f510-2471-ecfabbf922a2" href="e5de3f46-a6e7-f510-2471-ecfabbf922a2.htm">Set<wbr />Active</a>
+    </li>
+    <li>
+      <a id="9bfb1ef3-b045-fe20-df2d-82cd711a682b" href="9bfb1ef3-b045-fe20-df2d-82cd711a682b.htm">Set<wbr />Badge</a>
+    </li>
+    <li>
+      <a id="e8ac6331-8b01-cc85-00bb-230c56727825" href="e8ac6331-8b01-cc85-00bb-230c56727825.htm">Set<wbr />Image</a>
+    </li>
+    <li>
+      <a id="2607b62a-c80a-8034-b44a-3ccae6f179eb" href="2607b62a-c80a-8034-b44a-3ccae6f179eb.htm">Set<wbr />Index</a>
+    </li>
+    <li>
+      <a id="d3e6532a-1ddd-3ed7-936a-88f4e8f818e2" href="d3e6532a-1ddd-3ed7-936a-88f4e8f818e2.htm">Upscale</a>
+    </li>
+  </tocItems>
+</toc>

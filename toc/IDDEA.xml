@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="e9bc8d42-a2e2-98da-527d-eb58838cff77.htm">Extensions</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="980a168d-4916-dbca-4173-844b16432154" href="980a168d-4916-dbca-4173-844b16432154.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="846b157f-0abc-2fdd-fae0-f136ef3dfaca" class="has-submenu" href="846b157f-0abc-2fdd-fae0-f136ef3dfaca.htm">
+        <span data-tocFile="../toc/IDBDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6fe64a94-beae-6af5-2799-4b8c2cbdd273" class="has-submenu" href="6fe64a94-beae-6af5-2799-4b8c2cbdd273.htm">
+        <span data-tocFile="../toc/IDCDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="042e308e-5938-371b-1afb-12f64031914f" class="has-submenu" href="042e308e-5938-371b-1afb-12f64031914f.htm">
+        <span data-tocFile="../toc/IDDDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fields</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

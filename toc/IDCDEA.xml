@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="e9bc8d42-a2e2-98da-527d-eb58838cff77.htm">Extensions</a>
+    </li>
+    <li>
+      <a href="6fe64a94-beae-6af5-2799-4b8c2cbdd273.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="86ebc2b7-548c-5b0d-46a4-de5553a952a5" href="86ebc2b7-548c-5b0d-46a4-de5553a952a5.htm">All<wbr />Active<wbr />Pickups<wbr />Array</a>
+    </li>
+    <li>
+      <a id="4f266127-cfe0-8ab9-d730-d89681965b55" href="4f266127-cfe0-8ab9-d730-d89681965b55.htm">All<wbr />Active<wbr />Pickups<wbr />Il<wbr />2List</a>
+    </li>
+    <li>
+      <a id="b10e823e-d17a-64ef-10d4-9199a91ab944" href="b10e823e-d17a-64ef-10d4-9199a91ab944.htm">All<wbr />Active<wbr />Pickups<wbr />Sys<wbr />List</a>
+    </li>
+    <li>
+      <a id="c90b000f-9f70-fb51-658e-ae4c38591ce1" href="c90b000f-9f70-fb51-658e-ae4c38591ce1.htm">All<wbr />Pickups<wbr />Array</a>
+    </li>
+    <li>
+      <a id="59b2e9a4-0367-6909-c4dc-cadaf9ddaa09" href="59b2e9a4-0367-6909-c4dc-cadaf9ddaa09.htm">All<wbr />Pickups<wbr />Sys<wbr />List</a>
+    </li>
+    <li>
+      <a id="e743f5c4-971c-8269-f5f5-86a3ef227089" href="e743f5c4-971c-8269-f5f5-86a3ef227089.htm">All<wbr />Players</a>
+    </li>
+    <li>
+      <a id="2f012702-8ac4-23ea-06be-c4ff93b0fd3b" href="2f012702-8ac4-23ea-06be-c4ff93b0fd3b.htm">All<wbr />Players<wbr />Array</a>
+    </li>
+    <li>
+      <a id="7a1666ed-e369-9a42-e515-ade3ef72c0fa" href="7a1666ed-e369-9a42-e515-ade3ef72c0fa.htm">All<wbr />Players<wbr />Il<wbr />2List</a>
+    </li>
+    <li>
+      <a id="2d60b661-4bdf-3646-b67e-f60535a154ad" href="2d60b661-4bdf-3646-b67e-f60535a154ad.htm">All<wbr />Players<wbr />Sys<wbr />List</a>
+    </li>
+    <li>
+      <a id="ae478a5d-a390-15e5-0668-5cb87fffe6bc" href="ae478a5d-a390-15e5-0668-5cb87fffe6bc.htm">Check<wbr />Dirs</a>
+    </li>
+    <li>
+      <a id="fdf94e28-5c33-a2a7-39c2-7298b15f0b45" href="fdf94e28-5c33-a2a7-39c2-7298b15f0b45.htm">Clear<wbr />Assets</a>
+    </li>
+    <li>
+      <a id="211254ba-bb8f-9599-d9e0-bb49e66dd25a" href="211254ba-bb8f-9599-d9e0-bb49e66dd25a.htm">Color<wbr />To<wbr />Hex</a>
+    </li>
+    <li>
+      <a id="d8f970fa-3723-02c7-a09d-b8f4fa06649a" href="d8f970fa-3723-02c7-a09d-b8f4fa06649a.htm">Cur<wbr />World<wbr />ID</a>
+    </li>
+    <li>
+      <a id="9eec256e-3c07-1ed7-91a1-997b33f6c908" href="9eec256e-3c07-1ed7-91a1-997b33f6c908.htm">Cur<wbr />World<wbr />Name</a>
+    </li>
+    <li>
+      <a id="db7a1f11-17f1-93e9-5948-23e4b17f6dac" href="db7a1f11-17f1-93e9-5948-23e4b17f6dac.htm">Does<wbr />Player<wbr />Manager<wbr />Exist</a>
+    </li>
+    <li>
+      <a id="3b6ce5da-de5a-0a76-191b-5dc0dfc70551" class="has-submenu" href="3b6ce5da-de5a-0a76-191b-5dc0dfc70551.htm">
+        <span data-tocFile="../toc/IDPCDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Easy<wbr />Instantiate</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="9b09d28d-3b0d-1fe4-cdf3-eda919704686" href="9b09d28d-3b0d-1fe4-cdf3-eda919704686.htm">Freeze<wbr />Player</a>
+    </li>
+    <li>
+      <a id="4f3fbe0a-6994-d8d9-2902-b32455e30873" class="has-submenu" href="4f3fbe0a-6994-d8d9-2902-b32455e30873.htm">
+        <span data-tocFile="../toc/IDRCDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Actor<wbr />Number</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="59416c63-99c1-725d-48f3-61a08d535bd8" class="has-submenu" href="59416c63-99c1-725d-48f3-61a08d535bd8.htm">
+        <span data-tocFile="../toc/IDSCDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />APIUser</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="fb96bab1-823c-5df5-3baf-c361f98372e0" class="has-submenu" href="fb96bab1-823c-5df5-3baf-c361f98372e0.htm">
+        <span data-tocFile="../toc/IDTCDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Avatar</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6defcbc0-8f56-ec22-9bf4-3c424ecd1dbb" class="has-submenu" href="6defcbc0-8f56-ec22-9bf4-3c424ecd1dbb.htm">
+        <span data-tocFile="../toc/IDUCDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Display<wbr />Name</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="152458d8-589e-e4ac-f008-edb31a6f73dd" class="has-submenu" href="152458d8-589e-e4ac-f008-edb31a6f73dd.htm">
+        <span data-tocFile="../toc/IDVCDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />FPS</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c5b0260b-076a-ba8c-e1af-7284a4b6edc2" href="c5b0260b-076a-ba8c-e1af-7284a4b6edc2.htm">Get<wbr />Frames<wbr />Colored</a>
+    </li>
+    <li>
+      <a id="9319957a-0412-c5d4-f706-d6247a776b49" href="9319957a-0412-c5d4-f706-d6247a776b49.htm">Get<wbr />Obj<wbr />Path</a>
+    </li>
+    <li>
+      <a id="e7121569-fa62-543e-fbe2-96f1f77a2b5d" href="e7121569-fa62-543e-fbe2-96f1f77a2b5d.htm">Get<wbr />Or<wbr />Add<wbr />Component&lt;T&gt;</a>
+    </li>
+    <li>
+      <a id="91173d35-98bd-2d40-2db1-028b88806dbc" class="has-submenu" href="91173d35-98bd-2d40-2db1-028b88806dbc.htm">
+        <span data-tocFile="../toc/IDZCDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Owner<wbr />Of<wbr />Object</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="9192507e-a3b7-2e6a-2e9f-06ecdd2f7547" class="has-submenu" href="9192507e-a3b7-2e6a-2e9f-06ecdd2f7547.htm">
+        <span data-tocFile="../toc/ID1CDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Ping</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="05a8b3ee-4d79-9472-b678-62ff30034c8e" href="05a8b3ee-4d79-9472-b678-62ff30034c8e.htm">Get<wbr />Ping<wbr />Colored</a>
+    </li>
+    <li>
+      <a id="ad027957-e6cd-ed5c-4355-1de86533a0ca" class="has-submenu" href="ad027957-e6cd-ed5c-4355-1de86533a0ca.htm">
+        <span data-tocFile="../toc/ID3CDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Platform</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b4ef5b01-a0fb-13bd-d03f-71001ac40713" class="has-submenu" href="b4ef5b01-a0fb-13bd-d03f-71001ac40713.htm">
+        <span data-tocFile="../toc/ID4CDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Player</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="4d41eac4-17a3-991a-29a2-31b6264fdb3c" href="4d41eac4-17a3-991a-29a2-31b6264fdb3c.htm">Get<wbr />Player<wbr />Camera</a>
+    </li>
+    <li>
+      <a id="1e849d70-f229-ca7f-4e9d-548aba0076c7" href="1e849d70-f229-ca7f-4e9d-548aba0076c7.htm">Get<wbr />Player<wbr />Color</a>
+    </li>
+    <li>
+      <a id="418a5df9-ff27-a8b4-3b0a-987eb59ba7b8" href="418a5df9-ff27-a8b4-3b0a-987eb59ba7b8.htm">Get<wbr />Player<wbr />Manager</a>
+    </li>
+    <li>
+      <a id="af18e20c-b462-f88e-9e52-6340880a9487" class="has-submenu" href="af18e20c-b462-f88e-9e52-6340880a9487.htm">
+        <span data-tocFile="../toc/ID0BB0CDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Player<wbr />Net</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b2567f57-ab5b-fee0-ee52-e34e946f2470" class="has-submenu" href="b2567f57-ab5b-fee0-ee52-e34e946f2470.htm">
+        <span data-tocFile="../toc/ID0CB0CDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />Player<wbr />Object</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c86c8592-300f-8395-0f9b-cfc8144fdead" href="c86c8592-300f-8395-0f9b-cfc8144fdead.htm">Get<wbr />Random<wbr />Player</a>
+    </li>
+    <li>
+      <a id="5806b5cf-282c-7504-f274-f9833b0a1185" href="5806b5cf-282c-7504-f274-f9833b0a1185.htm">Get<wbr />Random<wbr />Players</a>
+    </li>
+    <li>
+      <a id="cbf038f2-6234-046f-3282-d54b3e5b5068" href="cbf038f2-6234-046f-3282-d54b3e5b5068.htm">Get<wbr />Selected<wbr />Actor<wbr />Number</a>
+    </li>
+    <li>
+      <a id="040744c2-cca1-4a9d-6aa1-a3ac3720b557" href="040744c2-cca1-4a9d-6aa1-a3ac3720b557.htm">Get<wbr />Selected<wbr />APIUser</a>
+    </li>
+    <li>
+      <a id="a73cad16-7a87-81bf-bcf7-c90ce2827c27" href="a73cad16-7a87-81bf-bcf7-c90ce2827c27.htm">Get<wbr />Selected<wbr />Display<wbr />Name</a>
+    </li>
+    <li>
+      <a id="f27b7d46-24a9-848a-1481-3f7d8c7d0b37" href="f27b7d46-24a9-848a-1481-3f7d8c7d0b37.htm">Get<wbr />Selected<wbr />Player</a>
+    </li>
+    <li>
+      <a id="233cc4de-79e1-75a3-f14e-b3e83b76bcc6" href="233cc4de-79e1-75a3-f14e-b3e83b76bcc6.htm">Get<wbr />Selected<wbr />Player<wbr />Net</a>
+    </li>
+    <li>
+      <a id="c0132215-f58f-4ca1-a9e7-3cae4e14403c" href="c0132215-f58f-4ca1-a9e7-3cae4e14403c.htm">Get<wbr />Selected<wbr />VRCPlayer</a>
+    </li>
+    <li>
+      <a id="684fcbb3-2094-1adf-76c9-1e846eab6b0c" href="684fcbb3-2094-1adf-76c9-1e846eab6b0c.htm">Get<wbr />Selected<wbr />VRCPlayer<wbr />Api</a>
+    </li>
+    <li>
+      <a id="1568eff5-5765-db45-5f99-ba621a1c2ce1" href="1568eff5-5765-db45-5f99-ba621a1c2ce1.htm">Get<wbr />Udon<wbr />Keys</a>
+    </li>
+    <li>
+      <a id="f3383c81-a711-ad4a-6129-8e1f51868b66" class="has-submenu" href="f3383c81-a711-ad4a-6129-8e1f51868b66.htm">
+        <span data-tocFile="../toc/ID0NB0CDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />VRCPlayer</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="4dd3bde9-dec7-c0cb-eca0-f04c9b84a2c0" class="has-submenu" href="4dd3bde9-dec7-c0cb-eca0-f04c9b84a2c0.htm">
+        <span data-tocFile="../toc/ID0OB0CDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Get<wbr />VRCPlayer<wbr />Api</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="2120cde1-fabc-3d76-ae7c-9159d2a926ec" class="has-submenu" href="2120cde1-fabc-3d76-ae7c-9159d2a926ec.htm">
+        <span data-tocFile="../toc/ID0PB0CDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Has<wbr />Double<wbr />Clicked</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e0ecbe50-485a-6662-cfdd-f514b4cd1e7f" href="e0ecbe50-485a-6662-cfdd-f514b4cd1e7f.htm">Hex<wbr />To<wbr />Color</a>
+    </li>
+    <li>
+      <a id="dd7cad90-6ca3-f1c1-3f90-1c110a201a0e" href="dd7cad90-6ca3-f1c1-3f90-1c110a201a0e.htm">Inputmenu</a>
+    </li>
+    <li>
+      <a id="79916523-edc1-0535-4348-7fdf0b8d03bf" class="has-submenu" href="79916523-edc1-0535-4348-7fdf0b8d03bf.htm">
+        <span data-tocFile="../toc/ID0SB0CDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />Friend</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="76dc3269-6da1-dff2-b1d4-d80a18b7282c" href="76dc3269-6da1-dff2-b1d4-d80a18b7282c.htm">Is<wbr />INF</a>
+    </li>
+    <li>
+      <a id="eb3f4510-e86b-fac4-2156-9bb66c38b5a6" href="eb3f4510-e86b-fac4-2156-9bb66c38b5a6.htm">Is<wbr />In<wbr />World</a>
+    </li>
+    <li>
+      <a id="cc6d0178-d5ce-3aea-ca4e-937045fd0b67" href="cc6d0178-d5ce-3aea-ca4e-937045fd0b67.htm">Is<wbr />NAN</a>
+    </li>
+    <li>
+      <a id="3166a8e4-c37e-e772-4fe9-93849a42f743" href="3166a8e4-c37e-e772-4fe9-93849a42f743.htm">Is<wbr />Out</a>
+    </li>
+    <li>
+      <a id="90d5e005-4ac0-cdf4-bb27-493494f161a9" class="has-submenu" href="90d5e005-4ac0-cdf4-bb27-493494f161a9.htm">
+        <span data-tocFile="../toc/ID0XB0CDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />PC</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="7e977600-914a-c095-d0b9-be087391e753" class="has-submenu" href="7e977600-914a-c095-d0b9-be087391e753.htm">
+        <span data-tocFile="../toc/ID0YB0CDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />PCVR</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="b86fc825-51ca-6438-02d3-5984216cfbfe" class="has-submenu" href="b86fc825-51ca-6438-02d3-5984216cfbfe.htm">
+        <span data-tocFile="../toc/ID0ZB0CDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Is<wbr />Quest</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="5998e0b8-f133-1545-c629-f21bffd9c80e" href="5998e0b8-f133-1545-c629-f21bffd9c80e.htm">Is<wbr />Stick<wbr />Drifting</a>
+    </li>
+    <li>
+      <a id="437d90a8-ed76-67fa-7352-7040451161fe" href="437d90a8-ed76-67fa-7352-7040451161fe.htm">Load<wbr />Sprite<wbr />From<wbr />64</a>
+    </li>
+    <li>
+      <a id="abe9f3c5-dbb4-e571-6ae1-8987ac963a87" href="abe9f3c5-dbb4-e571-6ae1-8987ac963a87.htm">Rand<wbr />Int<wbr />Between</a>
+    </li>
+    <li>
+      <a id="131165de-93ae-ad3b-714a-14ebd9caa2de" href="131165de-93ae-ad3b-714a-14ebd9caa2de.htm">Random<wbr />Offset</a>
+    </li>
+    <li>
+      <a id="6caa406b-0cb9-e8cc-56a5-6aac3b775317" class="has-submenu" href="6caa406b-0cb9-e8cc-56a5-6aac3b775317.htm">
+        <span data-tocFile="../toc/ID05B0CDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Return<wbr />If<wbr />Active</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="53d223cf-ab4f-6300-0429-86aa5cd90252" class="has-submenu" href="53d223cf-ab4f-6300-0429-86aa5cd90252.htm">
+        <span data-tocFile="../toc/ID06B0CDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Save<wbr />Object<wbr />List</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="e5bec4b3-e763-7653-4810-00f9b290953e" href="e5bec4b3-e763-7653-4810-00f9b290953e.htm">Save<wbr />Udon<wbr />List</a>
+    </li>
+    <li>
+      <a id="521b70f8-ed14-31d2-728a-98307b537193" href="521b70f8-ed14-31d2-728a-98307b537193.htm">Select<wbr />User<wbr />Menu<wbr />QM</a>
+    </li>
+    <li>
+      <a id="1f5ef438-6d36-3249-05d8-62ea65577295" class="has-submenu" href="1f5ef438-6d36-3249-05d8-62ea65577295.htm">
+        <span data-tocFile="../toc/ID0CC0CDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Send<wbr />Event</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="3aae6897-ee51-4001-ff88-a9961bb9c5fc" class="has-submenu" href="3aae6897-ee51-4001-ff88-a9961bb9c5fc.htm">
+        <span data-tocFile="../toc/ID0DC0CDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Object<wbr />Owner</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="1b12a10a-3909-d156-239e-b988f3fc3e26" class="has-submenu" href="1b12a10a-3909-d156-239e-b988f3fc3e26.htm">
+        <span data-tocFile="../toc/ID0EC0CDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Take<wbr />Owner<wbr />If<wbr />Necessary</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="c49ad3c9-09d0-4be6-79f8-115a93091584" class="has-submenu" href="c49ad3c9-09d0-4be6-79f8-115a93091584.htm">
+        <span data-tocFile="../toc/ID0FC0CDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Take<wbr />Owner<wbr />If<wbr />Necessary<wbr />Hidden</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="5786a94e-7e96-9fec-3e7d-2255be75d203" class="has-submenu" href="5786a94e-7e96-9fec-3e7d-2255be75d203.htm">
+        <span data-tocFile="../toc/ID0GC0CDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Take<wbr />Owner<wbr />If<wbr />Player<wbr />Is</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="edf950eb-d71a-2e2d-89ea-2a24aa1e2a88" href="edf950eb-d71a-2e2d-89ea-2a24aa1e2a88.htm">To<wbr />UTF<wbr />8</a>
+    </li>
+    <li>
+      <a id="1aa67bbf-0b9f-fe5c-57b0-fb4c6b015841" class="has-submenu" href="1aa67bbf-0b9f-fe5c-57b0-fb4c6b015841.htm">
+        <span data-tocFile="../toc/ID0IC0CDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Tp<wbr />To<wbr />Player</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="ee004d66-f210-c384-6f2d-979c77478840" class="has-submenu" href="ee004d66-f210-c384-6f2d-979c77478840.htm">
+        <span data-tocFile="../toc/ID0JC0CDEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Tp<wbr />To<wbr />Vector</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="914cc064-4c90-e214-8227-dcbb759e197d" href="914cc064-4c90-e214-8227-dcbb759e197d.htm">Tryer</a>
+    </li>
+    <li>
+      <a id="68acaa92-e933-ee80-979d-e333ca47e147" href="68acaa92-e933-ee80-979d-e333ca47e147.htm">World<wbr />Check</a>
+    </li>
+    <li>
+      <a id="b593de6a-02f5-be83-12e9-0de3daede36d" href="b593de6a-02f5-be83-12e9-0de3daede36d.htm">Wrap<wbr />In<wbr />Color</a>
+    </li>
+    <li>
+      <a id="458d9962-5f60-b9a7-2a60-04ae6d854cee" href="458d9962-5f60-b9a7-2a60-04ae6d854cee.htm">Write<wbr />To<wbr />File</a>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="7496f626-aa22-0873-60fc-425d49469119.htm">Wing<wbr />Single</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="e73ca988-f02e-bd0b-14dd-46441e62046b" href="e73ca988-f02e-bd0b-14dd-46441e62046b.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="2c497de6-1df4-b91c-f6c8-4c951e9ed9b2" class="has-submenu" href="2c497de6-1df4-b91c-f6c8-4c951e9ed9b2.htm">
+        <span data-tocFile="../toc/IDBSEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="f1685171-823e-3873-48d4-ee2f726a3789" class="has-submenu" href="f1685171-823e-3873-48d4-ee2f726a3789.htm">
+        <span data-tocFile="../toc/IDCSEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fields</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

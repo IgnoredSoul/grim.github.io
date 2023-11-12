@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="8ac34bce-f5ec-873a-2bdc-268961ea6629.htm">GRIM.<wbr />SDKK</a>
+    </li>
+    <li>
+      <a href="508948d2-435d-89d0-536f-aaa31065021d.htm">QMButton<wbr />Base</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="533e0412-b706-81bd-c823-49290d11a0df" href="533e0412-b706-81bd-c823-49290d11a0df.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="2db4a45f-369b-31b8-c346-b9eb0cb96121" class="has-submenu" href="2db4a45f-369b-31b8-c346-b9eb0cb96121.htm">
+        <span data-tocFile="../toc/IDBAFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Properties</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="6dbb1696-fba0-82a8-4a65-10d54bf9efcf" class="has-submenu" href="6dbb1696-fba0-82a8-4a65-10d54bf9efcf.htm">
+        <span data-tocFile="../toc/IDCAFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="13176b5e-f11e-288c-25db-b1e9d3a4aa97" class="has-submenu" href="13176b5e-f11e-288c-25db-b1e9d3a4aa97.htm">
+        <span data-tocFile="../toc/IDDAFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fields</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

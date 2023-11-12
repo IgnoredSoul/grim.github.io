@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="0f952b57-bbda-8ebc-a1e4-b5d293600ea6.htm">Patch<wbr />Instance</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="6a8976c0-685b-1ee5-0d4f-1913b91f507a" href="6a8976c0-685b-1ee5-0d4f-1913b91f507a.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="2a9a6bd9-e72f-877b-c02e-3f53464a5cd3" href="2a9a6bd9-e72f-877b-c02e-3f53464a5cd3.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="e975b7ff-a8d5-2e46-2f40-8e05e0ddfbbc" class="has-submenu" href="e975b7ff-a8d5-2e46-2f40-8e05e0ddfbbc.htm">
+        <span data-tocFile="../toc/IDCJEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fields</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

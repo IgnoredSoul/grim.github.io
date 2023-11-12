@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="e9bc8d42-a2e2-98da-527d-eb58838cff77.htm">Extensions</a>
+    </li>
+    <li>
+      <a href="6fe64a94-beae-6af5-2799-4b8c2cbdd273.htm">Methods</a>
+    </li>
+    <li>
+      <a href="9192507e-a3b7-2e6a-2e9f-06ecdd2f7547.htm">Get<wbr />Ping</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="f0859009-aff5-10e4-f08f-48f6e875252b" href="f0859009-aff5-10e4-f08f-48f6e875252b.htm">Get<wbr />Ping</a>
+    </li>
+    <li>
+      <a id="2cffcfd8-25e2-ff42-9dc8-a0350b5947b7" href="2cffcfd8-25e2-ff42-9dc8-a0350b5947b7.htm">Get<wbr />Ping(<wbr />APIUser)</a>
+    </li>
+    <li>
+      <a id="ca905673-2fd2-98e2-fca2-4c97189cec14" href="ca905673-2fd2-98e2-fca2-4c97189cec14.htm">Get<wbr />Ping(<wbr />T:<wbr />Interface<wbr />Public<wbr />Abstract<wbr />St<wbr />Co<wbr />St<wbr />Bo<wbr />Ob<wbr />St<wbr />1Bo<wbr />Si<wbr />1Unique)</a>
+    </li>
+    <li>
+      <a id="280b6b2b-dcf4-ae9d-4d07-83458339efd9" href="280b6b2b-dcf4-ae9d-4d07-83458339efd9.htm">Get<wbr />Ping(<wbr />Nullable&lt;Int<wbr />32&gt;)</a>
+    </li>
+    <li>
+      <a id="676a8035-86cc-e20b-a80d-0110a7213de8" href="676a8035-86cc-e20b-a80d-0110a7213de8.htm">Get<wbr />Ping(<wbr />Player)</a>
+    </li>
+    <li>
+      <a id="7393eb53-b388-2060-cd8d-480675231d6e" href="7393eb53-b388-2060-cd8d-480675231d6e.htm">Get<wbr />Ping(<wbr />T:<wbr />Player<wbr />Net)</a>
+    </li>
+    <li>
+      <a id="3c174767-d731-9a4b-84ab-573e79bfaa83" href="3c174767-d731-9a4b-84ab-573e79bfaa83.htm">Get<wbr />Ping(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="e7c3844c-e3c8-626d-5ade-c0dccd0fda31" href="e7c3844c-e3c8-626d-5ade-c0dccd0fda31.htm">Get<wbr />Ping(<wbr />T:<wbr />VRCPlayer)</a>
+    </li>
+    <li>
+      <a id="1a95a657-6df4-146b-7457-2246e7be48f2" href="1a95a657-6df4-146b-7457-2246e7be48f2.htm">Get<wbr />Ping(<wbr />VRCPlayer<wbr />Api)</a>
+    </li>
+  </tocItems>
+</toc>

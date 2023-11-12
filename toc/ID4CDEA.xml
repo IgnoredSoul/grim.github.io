@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="e9bc8d42-a2e2-98da-527d-eb58838cff77.htm">Extensions</a>
+    </li>
+    <li>
+      <a href="6fe64a94-beae-6af5-2799-4b8c2cbdd273.htm">Methods</a>
+    </li>
+    <li>
+      <a href="b4ef5b01-a0fb-13bd-d03f-71001ac40713.htm">Get<wbr />Player</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="5af21609-0b7a-900e-24b0-a69a5bedb361" href="5af21609-0b7a-900e-24b0-a69a5bedb361.htm">Get<wbr />Player</a>
+    </li>
+    <li>
+      <a id="a6a54926-c894-4b59-aa4a-6dc12ff29fae" href="a6a54926-c894-4b59-aa4a-6dc12ff29fae.htm">Get<wbr />Player(<wbr />APIUser)</a>
+    </li>
+    <li>
+      <a id="3196c905-c181-28f8-bdc4-0b6a7f815acb" href="3196c905-c181-28f8-bdc4-0b6a7f815acb.htm">Get<wbr />Player(<wbr />Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="c7a624a9-48ea-0ef4-2f4a-a2921e634645" href="c7a624a9-48ea-0ef4-2f4a-a2921e634645.htm">Get<wbr />Player(<wbr />T:<wbr />Interface<wbr />Public<wbr />Abstract<wbr />St<wbr />Co<wbr />St<wbr />Bo<wbr />Ob<wbr />St<wbr />1Bo<wbr />Si<wbr />1Unique)</a>
+    </li>
+    <li>
+      <a id="fa13c9a7-609f-c6b7-549b-0b8e5667591d" href="fa13c9a7-609f-c6b7-549b-0b8e5667591d.htm">Get<wbr />Player(<wbr />T:<wbr />Player<wbr />Net)</a>
+    </li>
+    <li>
+      <a id="3e5b10bf-a687-d56a-e1c3-9e87ca7ddbdf" href="3e5b10bf-a687-d56a-e1c3-9e87ca7ddbdf.htm">Get<wbr />Player(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="4169cb3b-94f8-62ad-974a-c59dc2a82258" href="4169cb3b-94f8-62ad-974a-c59dc2a82258.htm">Get<wbr />Player(<wbr />T:<wbr />VRCPlayer)</a>
+    </li>
+    <li>
+      <a id="2a13838e-00d6-476b-4705-b135fce70602" href="2a13838e-00d6-476b-4705-b135fce70602.htm">Get<wbr />Player(<wbr />VRCPlayer<wbr />Api)</a>
+    </li>
+  </tocItems>
+</toc>

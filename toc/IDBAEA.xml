@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="f04c3ac3-ca03-642f-b162-f5512f0877c0.htm">APIUtils</a>
+    </li>
+    <li>
+      <a href="ba9679b7-3a8e-7a01-1fed-8a0b1aa2eae3.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="eb2caa7e-71f3-9eb1-c9d1-a67108087655" class="has-submenu" href="eb2caa7e-71f3-9eb1-c9d1-a67108087655.htm">
+        <span data-tocFile="../toc/IDABAEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Destroy<wbr />Children</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="877eed58-ce21-185a-85e9-27a11cb6ec92" href="877eed58-ce21-185a-85e9-27a11cb6ec92.htm">Get<wbr />Button<wbr />Template</a>
+    </li>
+    <li>
+      <a id="6f6e3f2d-7fa8-b543-4e5b-b73169c87e08" href="6f6e3f2d-7fa8-b543-4e5b-b73169c87e08.htm">Get<wbr />Menu<wbr />Page<wbr />Template</a>
+    </li>
+    <li>
+      <a id="3f000867-e855-4f7a-ace5-c9e45b28d5ed" href="3f000867-e855-4f7a-ace5-c9e45b28d5ed.htm">Get<wbr />Menu<wbr />State<wbr />Controller<wbr />Instance</a>
+    </li>
+    <li>
+      <a id="dd33c3a1-14ce-fa6d-e1e7-07606098e39e" href="dd33c3a1-14ce-fa6d-e1e7-07606098e39e.htm">Get<wbr />Off<wbr />Icon<wbr />Sprite</a>
+    </li>
+    <li>
+      <a id="dbb45da6-218d-5ed0-d1db-8ae731a7fbe4" href="dbb45da6-218d-5ed0-d1db-8ae731a7fbe4.htm">Get<wbr />On<wbr />Icon<wbr />Sprite</a>
+    </li>
+    <li>
+      <a id="3d0ab0e7-e694-0455-0d8f-5e0dbd06c45b" href="3d0ab0e7-e694-0455-0d8f-5e0dbd06c45b.htm">Get<wbr />Slider<wbr />Label<wbr />Template</a>
+    </li>
+    <li>
+      <a id="3f9fa053-bbd2-6de0-7700-e1f5180fb0e6" href="3f9fa053-bbd2-6de0-7700-e1f5180fb0e6.htm">Get<wbr />Slider<wbr />Template</a>
+    </li>
+    <li>
+      <a id="b93f3f25-f81f-6f0c-f8a8-128813d657bc" href="b93f3f25-f81f-6f0c-f8a8-128813d657bc.htm">Get<wbr />Tab<wbr />Button<wbr />Template</a>
+    </li>
+    <li>
+      <a id="dfe44bdb-1869-faf5-b197-f0eb7f349bf7" href="dfe44bdb-1869-faf5-b197-f0eb7f349bf7.htm">Get<wbr />Wing<wbr />Button<wbr />Template</a>
+    </li>
+    <li>
+      <a id="ebb2f46b-95bd-a98b-2ceb-931b3aa5f202" href="ebb2f46b-95bd-a98b-2ceb-931b3aa5f202.htm">Get<wbr />Wing<wbr />Container</a>
+    </li>
+    <li>
+      <a id="22dec20d-5995-b9b8-faf6-f080d6dae582" href="22dec20d-5995-b9b8-faf6-f080d6dae582.htm">GI</a>
+    </li>
+    <li>
+      <a id="4a743caf-b926-e3b9-7e39-f1619bc772e1" href="4a743caf-b926-e3b9-7e39-f1619bc772e1.htm">Return<wbr />Gameobjectif<wbr />Active</a>
+    </li>
+    <li>
+      <a id="62c9b1c8-2d33-5356-d1f7-3f92757e47c5" class="has-submenu" href="62c9b1c8-2d33-5356-d1f7-3f92757e47c5.htm">
+        <span data-tocFile="../toc/IDNBAEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Set<wbr />Icon</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

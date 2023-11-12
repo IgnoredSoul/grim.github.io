@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="e9bc8d42-a2e2-98da-527d-eb58838cff77.htm">Extensions</a>
+    </li>
+    <li>
+      <a href="6fe64a94-beae-6af5-2799-4b8c2cbdd273.htm">Methods</a>
+    </li>
+    <li>
+      <a href="3b6ce5da-de5a-0a76-191b-5dc0dfc70551.htm">Easy<wbr />Instantiate</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="3da4893b-edfb-cfbd-afe7-5fc26303c286" href="3da4893b-edfb-cfbd-afe7-5fc26303c286.htm">Easy<wbr />Instantiate(<wbr />Game<wbr />Object, Game<wbr />Object)</a>
+    </li>
+    <li>
+      <a id="f4034026-eccc-504f-cc21-b1f47d4be87c" href="f4034026-eccc-504f-cc21-b1f47d4be87c.htm">Easy<wbr />Instantiate(<wbr />Game<wbr />Object, Transform)</a>
+    </li>
+    <li>
+      <a id="32e05081-0874-a8fe-8a56-314b30b2fe92" href="32e05081-0874-a8fe-8a56-314b30b2fe92.htm">Easy<wbr />Instantiate(<wbr />Transform, Game<wbr />Object)</a>
+    </li>
+    <li>
+      <a id="f2c95b29-ddbc-d1a0-14ff-5c92e49efc82" href="f2c95b29-ddbc-d1a0-14ff-5c92e49efc82.htm">Easy<wbr />Instantiate(<wbr />Transform, Transform)</a>
+    </li>
+  </tocItems>
+</toc>

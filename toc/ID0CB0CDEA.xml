@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="e9bc8d42-a2e2-98da-527d-eb58838cff77.htm">Extensions</a>
+    </li>
+    <li>
+      <a href="6fe64a94-beae-6af5-2799-4b8c2cbdd273.htm">Methods</a>
+    </li>
+    <li>
+      <a href="b2567f57-ab5b-fee0-ee52-e34e946f2470.htm">Get<wbr />Player<wbr />Object</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="70837858-9fc2-0704-e2f5-3a868a99ec34" href="70837858-9fc2-0704-e2f5-3a868a99ec34.htm">Get<wbr />Player<wbr />Object</a>
+    </li>
+    <li>
+      <a id="cb75ced0-7286-c8bc-9b26-9239d38fe29d" href="cb75ced0-7286-c8bc-9b26-9239d38fe29d.htm">Get<wbr />Player<wbr />Object(<wbr />APIUser)</a>
+    </li>
+    <li>
+      <a id="1b9c57db-ae1b-3aeb-caf0-93f6efea3eaa" href="1b9c57db-ae1b-3aeb-caf0-93f6efea3eaa.htm">Get<wbr />Player<wbr />Object(<wbr />Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="3bc902ee-4a2f-2b3e-7728-ce0807b5828c" href="3bc902ee-4a2f-2b3e-7728-ce0807b5828c.htm">Get<wbr />Player<wbr />Object(<wbr />T:<wbr />Interface<wbr />Public<wbr />Abstract<wbr />St<wbr />Co<wbr />St<wbr />Bo<wbr />Ob<wbr />St<wbr />1Bo<wbr />Si<wbr />1Unique)</a>
+    </li>
+    <li>
+      <a id="867add09-a807-1791-a944-b3bfa598a2ba" href="867add09-a807-1791-a944-b3bfa598a2ba.htm">Get<wbr />Player<wbr />Object(<wbr />Player)</a>
+    </li>
+    <li>
+      <a id="933f5733-0c62-ae7b-6a7c-74d6d01a5f76" href="933f5733-0c62-ae7b-6a7c-74d6d01a5f76.htm">Get<wbr />Player<wbr />Object(<wbr />T:<wbr />Player<wbr />Net)</a>
+    </li>
+    <li>
+      <a id="1b53d2c3-3a0b-4303-07d8-e3508ca54b15" href="1b53d2c3-3a0b-4303-07d8-e3508ca54b15.htm">Get<wbr />Player<wbr />Object(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="2fe518e4-8c7a-bb1b-5442-44077018d9cc" href="2fe518e4-8c7a-bb1b-5442-44077018d9cc.htm">Get<wbr />Player<wbr />Object(<wbr />T:<wbr />VRCPlayer)</a>
+    </li>
+    <li>
+      <a id="28ce0814-25c6-afe8-9d28-cf259968ddd6" href="28ce0814-25c6-afe8-9d28-cf259968ddd6.htm">Get<wbr />Player<wbr />Object(<wbr />VRCPlayer<wbr />Api)</a>
+    </li>
+  </tocItems>
+</toc>

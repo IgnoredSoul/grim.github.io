@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="e9bc8d42-a2e2-98da-527d-eb58838cff77.htm">Extensions</a>
+    </li>
+    <li>
+      <a href="6fe64a94-beae-6af5-2799-4b8c2cbdd273.htm">Methods</a>
+    </li>
+    <li>
+      <a href="59416c63-99c1-725d-48f3-61a08d535bd8.htm">Get<wbr />APIUser</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="13fbe944-4fbb-8ce6-1b30-a77eed2a2b10" href="13fbe944-4fbb-8ce6-1b30-a77eed2a2b10.htm">Get<wbr />APIUser</a>
+    </li>
+    <li>
+      <a id="37459078-a1b1-45b2-f189-e79a7ca2cd78" href="37459078-a1b1-45b2-f189-e79a7ca2cd78.htm">Get<wbr />APIUser(<wbr />Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="f1ac11ba-d929-6abd-cfb0-eeaa8dbf9c76" href="f1ac11ba-d929-6abd-cfb0-eeaa8dbf9c76.htm">Get<wbr />APIUser(<wbr />T:<wbr />Interface<wbr />Public<wbr />Abstract<wbr />St<wbr />Co<wbr />St<wbr />Bo<wbr />Ob<wbr />St<wbr />1Bo<wbr />Si<wbr />1Unique)</a>
+    </li>
+    <li>
+      <a id="98fa81d8-f4bc-f195-16a7-e9060a6db970" href="98fa81d8-f4bc-f195-16a7-e9060a6db970.htm">Get<wbr />APIUser(<wbr />Player)</a>
+    </li>
+    <li>
+      <a id="62a9aa17-44d0-063d-e14d-051e9481192c" href="62a9aa17-44d0-063d-e14d-051e9481192c.htm">Get<wbr />APIUser(<wbr />T:<wbr />Player<wbr />Net)</a>
+    </li>
+    <li>
+      <a id="22a8f300-d6b9-9404-0e5f-2f958b1634b6" href="22a8f300-d6b9-9404-0e5f-2f958b1634b6.htm">Get<wbr />APIUser(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="41e9f58c-3ba5-6546-1956-8f35a153c688" href="41e9f58c-3ba5-6546-1956-8f35a153c688.htm">Get<wbr />APIUser(<wbr />T:<wbr />VRCPlayer)</a>
+    </li>
+    <li>
+      <a id="33903d3f-58f3-8ebe-ed74-2f3c9abe2f73" href="33903d3f-58f3-8ebe-ed74-2f3c9abe2f73.htm">Get<wbr />APIUser(<wbr />VRCPlayer<wbr />Api)</a>
+    </li>
+  </tocItems>
+</toc>

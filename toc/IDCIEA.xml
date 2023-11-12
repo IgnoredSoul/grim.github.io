@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="bb306b44-0583-55bf-c0a8-74971e9e939c.htm">Patching</a>
+    </li>
+    <li>
+      <a href="7d4c7a67-de2e-02f8-ebc5-49afc04e4b97.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="b885d74b-de05-d239-8e63-c45b207ea43e" href="b885d74b-de05-d239-8e63-c45b207ea43e.htm">Add<wbr />Void</a>
+    </li>
+    <li>
+      <a id="7882dd5e-3a69-6573-3b5c-0983ce087641" href="7882dd5e-3a69-6573-3b5c-0983ce087641.htm">From<wbr />Astral<wbr />Pickups</a>
+    </li>
+    <li>
+      <a id="93f86818-9c06-804d-a640-c4924dfcb5d5" href="93f86818-9c06-804d-a640-c4924dfcb5d5.htm">Init<wbr />Post<wbr />Patch</a>
+    </li>
+    <li>
+      <a id="00ede1fd-dc36-0891-7d85-a69173def029" href="00ede1fd-dc36-0891-7d85-a69173def029.htm">Init<wbr />Pre<wbr />Patch</a>
+    </li>
+    <li>
+      <a id="1519ba34-4191-e7fc-7177-26f9815d76c7" href="1519ba34-4191-e7fc-7177-26f9815d76c7.htm">METM</a>
+    </li>
+    <li>
+      <a id="19a65c85-07be-099e-067e-470e20dfabf8" href="19a65c85-07be-099e-067e-470e20dfabf8.htm">Pickup<wbr />Awake</a>
+    </li>
+    <li>
+      <a id="8bedce11-2c17-de1e-8e38-be3b931b3918" href="8bedce11-2c17-de1e-8e38-be3b931b3918.htm">Sent<wbr />Udon<wbr />Event</a>
+    </li>
+    <li>
+      <a id="1bb7d270-7787-b9dd-74f6-1ce9b1b708b9" href="1bb7d270-7787-b9dd-74f6-1ce9b1b708b9.htm">Udon<wbr />Bool<wbr />Shit</a>
+    </li>
+  </tocItems>
+</toc>

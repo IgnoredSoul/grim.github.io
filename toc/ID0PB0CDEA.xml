@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="e9bc8d42-a2e2-98da-527d-eb58838cff77.htm">Extensions</a>
+    </li>
+    <li>
+      <a href="6fe64a94-beae-6af5-2799-4b8c2cbdd273.htm">Methods</a>
+    </li>
+    <li>
+      <a href="2120cde1-fabc-3d76-ae7c-9159d2a926ec.htm">Has<wbr />Double<wbr />Clicked</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="a81c8aa3-fef3-94f7-e3e1-69b8b94bcfbc" href="a81c8aa3-fef3-94f7-e3e1-69b8b94bcfbc.htm">Has<wbr />Double<wbr />Clicked(<wbr />String, T:<wbr />OVRInput.<wbr />Button, Single)</a>
+    </li>
+    <li>
+      <a id="ac4ac1ba-0a04-439f-5ae1-1f5cbc92f33e" href="ac4ac1ba-0a04-439f-5ae1-1f5cbc92f33e.htm">Has<wbr />Double<wbr />Clicked(<wbr />String, String, Single)</a>
+    </li>
+    <li>
+      <a id="6e9cdc3d-7828-ab58-b728-2b6be245590a" href="6e9cdc3d-7828-ab58-b728-2b6be245590a.htm">Has<wbr />Double<wbr />Clicked(<wbr />String, Key<wbr />Code, Single)</a>
+    </li>
+  </tocItems>
+</toc>

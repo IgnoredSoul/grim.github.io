@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="8ac34bce-f5ec-873a-2bdc-268961ea6629.htm">GRIM.<wbr />SDKK</a>
+    </li>
+    <li>
+      <a href="d0b5a40b-b84a-4bbe-924d-c4423a4157e6.htm">QMToggle<wbr />Button</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="5f0d5db7-b0d1-717e-58fb-87f90fe25d5a" href="5f0d5db7-b0d1-717e-58fb-87f90fe25d5a.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="0b042f4e-a808-e244-01a7-1378933f81b4" class="has-submenu" href="0b042f4e-a808-e244-01a7-1378933f81b4.htm">
+        <span data-tocFile="../toc/IDBCFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+    <li>
+      <a id="86fa1a96-1cbe-489a-d1d6-101b7e4dfc0e" class="has-submenu" href="86fa1a96-1cbe-489a-d1d6-101b7e4dfc0e.htm">
+        <span data-tocFile="../toc/IDCCFA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fields</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="d5ed8e88-3d7b-8ea0-8119-cff01b3565f4.htm">VPatching</a>
+    </li>
+    <li>
+      <a href="9c55b0e6-cccc-878f-c620-b3db5bf0061d.htm">Methods</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="5724af9e-d71e-82aa-b4d9-a160ee6321a3" href="5724af9e-d71e-82aa-b4d9-a160ee6321a3.htm">Gather<wbr />V</a>
+    </li>
+    <li>
+      <a id="b8066c41-b26f-414a-e4b9-af8cf4b166f7" href="b8066c41-b26f-414a-e4b9-af8cf4b166f7.htm">On<wbr />Pickup<wbr />Awake</a>
+    </li>
+    <li>
+      <a id="cbf85fd5-d11e-83f2-74eb-49b4a261e5cd" href="cbf85fd5-d11e-83f2-74eb-49b4a261e5cd.htm">On<wbr />Player<wbr />Joined</a>
+    </li>
+    <li>
+      <a id="74399dd1-3680-00b9-1d08-86f88489e416" href="74399dd1-3680-00b9-1d08-86f88489e416.htm">On<wbr />Scene<wbr />Init</a>
+    </li>
+    <li>
+      <a id="75f46a1e-9c84-6680-b73e-b33f4b83cdaf" href="75f46a1e-9c84-6680-b73e-b33f4b83cdaf.htm">On<wbr />Sent<wbr />Udon<wbr />Event</a>
+    </li>
+  </tocItems>
+</toc>

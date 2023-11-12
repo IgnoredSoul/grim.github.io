@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="8012ac90-cc83-a218-02fd-1a5676b389ac.htm">GRIMAPI</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="ffeb662d-f366-c2d7-54e5-c9325fbef42d" href="ffeb662d-f366-c2d7-54e5-c9325fbef42d.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="29b4f8f9-cc4f-3d39-356e-aff2cc712a9b" class="has-submenu" href="29b4f8f9-cc4f-3d39-356e-aff2cc712a9b.htm">
+        <span data-tocFile="../toc/IDBFEA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Fields</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

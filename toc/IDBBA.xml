@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="537e00bf-0b03-6564-9397-dd5f6cf4d5b9.htm">GRIM.<wbr />Menus</a>
+    </li>
+    <li>
+      <a href="3c0cd057-0581-b8cc-ca6b-142eb888b4e4.htm">Follower<wbr />Menu</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="58a69f62-0761-cbf0-eedd-d093c0c52353" href="58a69f62-0761-cbf0-eedd-d093c0c52353.htm">Constructor</a>
+    </li>
+    <li>
+      <a id="929016f8-1f4f-56fa-22ba-ea0a8a59360a" class="has-submenu" href="929016f8-1f4f-56fa-22ba-ea0a8a59360a.htm">
+        <span data-tocFile="../toc/IDBBBA.xml" class="icon toggle" onclick="ToggleExpandCollapse(this); return false;">
+          <i class="fa fa-angle-right"> </i>
+        </span>Methods</a>
+      <ul class="toc-menu is-hidden"> </ul>
+    </li>
+  </tocItems>
+</toc>

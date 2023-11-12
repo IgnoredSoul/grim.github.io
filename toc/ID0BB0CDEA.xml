@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toc>
+  <breadcrumbs>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Docs</a>
+    </li>
+    <li>
+      <a href="d75eb659-6335-53f6-af7a-81814a21ab7f.htm">Namespaces</a>
+    </li>
+    <li>
+      <a href="666af7bf-1610-0f8f-e158-1f9d45ba8a44.htm">GRIM.<wbr />SDK</a>
+    </li>
+    <li>
+      <a href="e9bc8d42-a2e2-98da-527d-eb58838cff77.htm">Extensions</a>
+    </li>
+    <li>
+      <a href="6fe64a94-beae-6af5-2799-4b8c2cbdd273.htm">Methods</a>
+    </li>
+    <li>
+      <a href="af18e20c-b462-f88e-9e52-6340880a9487.htm">Get<wbr />Player<wbr />Net</a>
+    </li>
+  </breadcrumbs>
+  <tocItems>
+    <li>
+      <a id="02380465-2c49-4a7d-622b-1bd7300bc86e" href="02380465-2c49-4a7d-622b-1bd7300bc86e.htm">Get<wbr />Player<wbr />Net</a>
+    </li>
+    <li>
+      <a id="423bcec4-2bb3-6f26-1167-e4e5a707ac87" href="423bcec4-2bb3-6f26-1167-e4e5a707ac87.htm">Get<wbr />Player<wbr />Net(<wbr />APIUser)</a>
+    </li>
+    <li>
+      <a id="1fa2b8e1-8022-8e16-6826-ae1833af784e" href="1fa2b8e1-8022-8e16-6826-ae1833af784e.htm">Get<wbr />Player<wbr />Net(<wbr />Int<wbr />32)</a>
+    </li>
+    <li>
+      <a id="155a4d03-32bd-7c23-43e7-098453d3bcf0" href="155a4d03-32bd-7c23-43e7-098453d3bcf0.htm">Get<wbr />Player<wbr />Net(<wbr />T:<wbr />Interface<wbr />Public<wbr />Abstract<wbr />St<wbr />Co<wbr />St<wbr />Bo<wbr />Ob<wbr />St<wbr />1Bo<wbr />Si<wbr />1Unique)</a>
+    </li>
+    <li>
+      <a id="55963753-cb99-c2df-60c2-90b3bfe404bd" href="55963753-cb99-c2df-60c2-90b3bfe404bd.htm">Get<wbr />Player<wbr />Net(<wbr />Player)</a>
+    </li>
+    <li>
+      <a id="c64d9385-755e-8c32-a598-bb28563e1acd" href="c64d9385-755e-8c32-a598-bb28563e1acd.htm">Get<wbr />Player<wbr />Net(<wbr />String)</a>
+    </li>
+    <li>
+      <a id="80e713bd-483d-d369-2d20-2bdfb1e05a78" href="80e713bd-483d-d369-2d20-2bdfb1e05a78.htm">Get<wbr />Player<wbr />Net(<wbr />T:<wbr />VRCPlayer)</a>
+    </li>
+    <li>
+      <a id="2a674a15-7a49-d947-7cc9-b9c115af6dc3" href="2a674a15-7a49-d947-7cc9-b9c115af6dc3.htm">Get<wbr />Player<wbr />Net(<wbr />VRCPlayer<wbr />Api)</a>
+    </li>
+  </tocItems>
+</toc>
